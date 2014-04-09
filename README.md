@@ -1,0 +1,1 @@
+This is critical tables, only for testing
