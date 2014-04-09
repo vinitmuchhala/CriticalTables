@@ -1,0 +1,32 @@
+#primary-nav li,#dashboard-options li,.mini-module-container input[type=submit],#department-display li,.success,.failure,label,.loader,.twothirtypixel
+{
+	*display:inline;
+	zoom:1;
+}
+#pagination li a
+{
+	line-height:29px;
+}
+.mini-module-container input[type="text"]
+{
+    color: #B2B2B2;
+    height: 20px;
+    *line-height: 26px;
+}
+.mini-module-container input[type="submit"]
+{
+	*padding:0 5px;
+}
+.mini-module-container input[type=submit].green
+{
+	*background:#A4CD4A;
+}
+.mini-module-container input[type=submit].green:hover
+{
+	*background:#BEDD76;
+}
+.mini-module-container input[type=submit].green:active,.mini-module-container input[type=submit].green:hover
+{
+	border:1px solid #91b700;
+	background-position:0 -33px;
+}

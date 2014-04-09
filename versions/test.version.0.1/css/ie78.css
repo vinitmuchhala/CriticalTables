@@ -1,0 +1,5 @@
+#primary-nav li,#dashboard-options li,.mini-module-container input[type=submit],#department-display li,.success,.failure,label,.loader
+{
+	*display:inline;
+	zoom:1;
+}
