@@ -1,6 +1,6 @@
 <?php
 
-	$host="localhost"; // Host name
+	$host="mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/"; // Host name
 	$username="critical"; // Mysql username
 	$password="1234"; // Mysql password
 	$db_name="critical_db"; // Database name
